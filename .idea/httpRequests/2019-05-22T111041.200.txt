@@ -1,0 +1,1 @@
+{"error":"javax.persistence.RollbackException: Error while committing the transaction"}

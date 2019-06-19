@@ -1,0 +1,1 @@
+{"empNo":3,"birthDate":"1999-12-31","firstName":"Petriukas","lastName":"Petraitis","gender":"MALE","hireDate":"2018-01-01","salaries":null}

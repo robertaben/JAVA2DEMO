@@ -1,0 +1,82 @@
+{
+  "empNo": 100000,
+  "birthDate": "1956-01-11",
+  "firstName": "Hiroyasu",
+  "lastName": "Emden",
+  "gender": "MALE",
+  "hireDate": "1991-07-02",
+  "salaries": [
+    {
+      "empNo": 100000,
+      "salary": 41408,
+      "fromDate": "1991-07-02",
+      "toDate": "1992-07-01"
+    },
+    {
+      "empNo": 100000,
+      "salary": 43119,
+      "fromDate": "1992-07-01",
+      "toDate": "1993-07-01"
+    },
+    {
+      "empNo": 100000,
+      "salary": 46991,
+      "fromDate": "1993-07-01",
+      "toDate": "1994-07-01"
+    },
+    {
+      "empNo": 100000,
+      "salary": 48751,
+      "fromDate": "1994-07-01",
+      "toDate": "1995-07-01"
+    },
+    {
+      "empNo": 100000,
+      "salary": 52001,
+      "fromDate": "1995-07-01",
+      "toDate": "1996-06-30"
+    },
+    {
+      "empNo": 100000,
+      "salary": 51503,
+      "fromDate": "1996-06-30",
+      "toDate": "1997-06-30"
+    },
+    {
+      "empNo": 100000,
+      "salary": 52930,
+      "fromDate": "1997-06-30",
+      "toDate": "1998-06-30"
+    },
+    {
+      "empNo": 100000,
+      "salary": 54693,
+      "fromDate": "1998-06-30",
+      "toDate": "1999-06-30"
+    },
+    {
+      "empNo": 100000,
+      "salary": 55956,
+      "fromDate": "1999-06-30",
+      "toDate": "2000-06-29"
+    },
+    {
+      "empNo": 100000,
+      "salary": 59534,
+      "fromDate": "2000-06-29",
+      "toDate": "2001-06-29"
+    },
+    {
+      "empNo": 100000,
+      "salary": 61633,
+      "fromDate": "2001-06-29",
+      "toDate": "2002-06-29"
+    },
+    {
+      "empNo": 100000,
+      "salary": 64961,
+      "fromDate": "2002-06-29",
+      "toDate": "9999-01-01"
+    }
+  ]
+}

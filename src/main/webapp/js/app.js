@@ -15,13 +15,6 @@ $(function() {
         displayEmployeeList(pageSize, offset);
     });
 
-    prev.addEventListener('click', function(event) {
-        if (offset != 0) {
-            offset -= pageSize;
-            displayEmployeeList(pageSize, offset);
-        }
-    });
-
 
     displayEmployeeList(pageSize, offset);
 });
